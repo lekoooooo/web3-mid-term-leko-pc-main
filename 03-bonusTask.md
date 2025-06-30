@@ -9,7 +9,7 @@ https://www.figma.com/design/csWiLLCmhxbmUOXICj3HGS/%E1%83%A8%E1%83%A3%E1%83%90%
 <!--https://github.com/lekoooooo/shualed-fetch-pcc  -->
 <!--https://github.com/lekoooooo/shualed-fetch-bonus-pcc (ბონუს) -->
 
-<!--debug:        -->
+<!--debug: https://github.com/lekoooooo/web3-debug       -->
 
 # Bonus დავალება:
 
